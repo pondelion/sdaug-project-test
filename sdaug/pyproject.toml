@@ -1,0 +1,11 @@
+[project]
+name = "sdaug"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "fastprogress>=1.0.3",
+    "pillow>=11.1.0",
+    "requests>=2.32.3",
+]

@@ -1,0 +1,4 @@
+.venv
+sdaug.egg-info
+__pycache__
+gen_images
